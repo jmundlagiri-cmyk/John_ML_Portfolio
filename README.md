@@ -35,7 +35,7 @@ Performed sentiment analysis using IMDB dataset with TF-IDF, Logistic Regression
 
 
 
-# ⭐ Favorite Project
+#  Favorite Project
 
 My favorite project is **Natural Language Processing (Chapter 16)** because it demonstrates how raw text can be transformed into meaningful numerical data and used for sentiment classification. It also introduced advanced concepts like embeddings and neural networks.
 
