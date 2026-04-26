@@ -5,12 +5,12 @@
 
 
 
-# 📌 Portfolio Overview
+#  Portfolio Overview
 
 This portfolio contains a collection of machine learning projects completed across different chapters. Each project demonstrates key concepts such as data preprocessing, model training, evaluation, visualization, and deep learning. The goal is to show practical understanding of machine learning workflows.
 
 
-# 📂 Projects Included
+# Projects Included
 
 ## 1. Machine Learning Review (Chapter 1)
 Introduced core ML concepts including supervised vs unsupervised learning and basic workflows.
@@ -40,7 +40,7 @@ Performed sentiment analysis using IMDB dataset with TF-IDF, Logistic Regression
 My favorite project is **Natural Language Processing (Chapter 16)** because it demonstrates how raw text can be transformed into meaningful numerical data and used for sentiment classification. It also introduced advanced concepts like embeddings and neural networks.
 
 
-# 🧠 Skills Gained
+# Skills Gained
 
 - Data preprocessing and cleaning  
 - Feature engineering (TF-IDF, scaling, encoding)  
@@ -52,7 +52,7 @@ My favorite project is **Natural Language Processing (Chapter 16)** because it d
 
 
 
-# 🚀 How to View Projects
+#  How to View Projects
 
 Each project is available as a Google Colab notebook.  
 To view:
@@ -63,7 +63,7 @@ To view:
 
 
 
-# 🤖 AI Assistance
+# AI Assistance
 
 AI tools were used to:
 - Help structure machine learning workflows  
@@ -76,7 +76,7 @@ All outputs were reviewed and validated before submission.
 
 
 
-# 📊 Reflection
+#  Reflection
 
 Throughout this portfolio, I gained a strong understanding of how machine learning systems are built from raw data to final predictions. I learned how important preprocessing is for improving model performance and how different algorithms behave on different types of data.
 
