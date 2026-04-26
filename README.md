@@ -76,7 +76,7 @@ All outputs were reviewed and validated before submission.
 
 
 
-# 📊 Reflection
+#  Reflection
 
 Throughout this portfolio, I gained a strong understanding of how machine learning systems are developed from raw data to final predictions. One of the most important lessons I learned was that successful machine learning begins with quality data preparation. Cleaning datasets, handling missing values, encoding categorical variables, scaling features, and selecting useful inputs all have a major impact on model performance. I discovered that even powerful algorithms can perform poorly if the data is not prepared correctly.
 
